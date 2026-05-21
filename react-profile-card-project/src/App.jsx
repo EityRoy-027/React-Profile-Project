@@ -68,7 +68,7 @@ function App() {
           key={item.id}
           name={item.name}
           age={item.age}
-          hobbies={item.hobbies}
+          hobbies={item.hobbies
           greeting={item.greeting}
 
         />

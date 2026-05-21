@@ -69,7 +69,8 @@ function App() {
           name={item.name}
           age={item.age}
           hobbies={item.hobbies}
-          greeting={item.greeting}
+          greeting={item.greeting
+            
         />
       ))}
     </>
